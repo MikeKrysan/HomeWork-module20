@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HomeWork-module20</string>
+    <string name="disclaimer">Картинки взяты с moviemania.io</string>
+    <string name="btn_menu">Меню</string>
+    <string name="btn_hit">Горячие новинки!</string>
+    <string name="btn_reviews">Обзоры</string>
+    <string name="btn_comment">Отзывы</string>
+    <string name="btn_feedback">Возникли вопросы?</string>
 </resources>
